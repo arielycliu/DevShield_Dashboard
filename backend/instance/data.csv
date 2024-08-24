@@ -1,0 +1,11 @@
+id,name,job_family,job_title,salary,pay_per_hour,hours_meetings_per_week,percentage_meetings_per_week,hours_2_contiguous,percentage_2_contiguous,opportunity_cost_modifier,direct_meeting_cost_week,implied_opportunity_cost_week
+1,Ethan,engineer,Senior Software Engineer,"175,000",84.13461538,15,0.375,20,0.5,1.75,1262.019231,2944.711538
+2,Olivia,engineer,Senior Software Engineer,"175,000",84.13461538,15,0.375,20,0.5,1.75,1262.019231,2944.711538
+3,Noah,engineer,Senior Software Engineer,"175,000",84.13461538,15,0.375,20,0.5,1.75,1262.019231,2944.711538
+4,Emma,engineer,Software Engineer,"125,000",60.09615385,13,0.325,22,0.55,1.5,781.25,1622.596154
+5,Liam,engineer,Software Engineer,"125,000",60.09615385,13,0.325,22,0.55,1.5,781.25,1622.596154
+6,Ava,engineer,Software Engineer,"125,000",60.09615385,13,0.325,22,0.55,1.5,781.25,1622.596154
+7,Benjamin,engineer,Software Engineer,"125,000",60.09615385,13,0.325,22,0.55,1.5,781.25,1622.596154
+8,Sophia,engineer,Software Engineer,"125,000",60.09615385,13,0.325,22,0.55,1.5,781.25,1622.596154
+9,Lucas,engineer,Intern,"100,000",48.07692308,8,0.2,24,0.6,1.25,384.6153846,961.5384615
+10,Charlotte,engineer,Intern,"100,000",48.07692308,8,0.2,24,0.6,1.25,384.6153846,961.5384615
