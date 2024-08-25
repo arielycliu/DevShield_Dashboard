@@ -1,0 +1,7 @@
+id,meeting_type,average_hours_per_week,cost_per_dev_week,cost_for_15_person_team,devshield_savings_per_week
+1,1on1s,3,435,6525,2610
+2,Standups,2,290,4350,1740
+3,Backlog / retrospectives,2,290,4350,1740
+4,Client facing,5,725,10875,4350
+5,Design,2,290,4350,1740
+6,Other internal,5,725,10875,4350

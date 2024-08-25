@@ -3,3 +3,4 @@ C:\msys64\mingw64\bin\python3.9.exe -m pip install Flask
 python3.9.exe -m pip install --upgrade pip
 
 ~\anaconda3_new\python.exe insertdata.py
+~\anaconda3_new\python.exe main.py
